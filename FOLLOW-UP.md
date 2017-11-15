@@ -22,6 +22,7 @@ I would have also liked using emotion, and redux-first-router.
 
 ### Q) Which parts are you most proud of? And why?
 Everything
+But seriously, managing svg from react.
 
 ### Q) Which parts did you spend the most time with? What did you find most difficult?
 css, because devil is hidden in the details.
