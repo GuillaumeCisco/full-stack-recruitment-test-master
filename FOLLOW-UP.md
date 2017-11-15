@@ -1,7 +1,7 @@
 # Implementation:
 
 ### Q) What libraries did you add to the frontend? What are they used for?
-No one
+query-string, stringify mocked user input
 
 ### Q) What is the command to start the server?
 
