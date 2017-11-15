@@ -1,0 +1,58 @@
+.bound {
+  ul, .info {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  ul {
+    width: 70%;
+    margin: 0;
+    padding: 0;
+
+    li {
+      list-style: none;
+
+      img {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        margin-right: 5px;
+        vertical-align: 20px;
+      }
+
+      div {
+        display: inline-block;
+        margin: 10px;
+
+        span {
+          display: block;
+
+          &.code {
+            color: #817B8F;
+          }
+        }
+      }
+    }
+  }
+
+  .info {
+    width: 30%;
+    .wrapper {
+      float: right;
+
+      .stop, .duration {
+        display: block;
+        font-size: 14px;
+      }
+
+      .stop {
+        color: #33DF91;
+      }
+
+      .duration {
+        color: #BAB7C2;
+      }
+    }
+  }
+}
+

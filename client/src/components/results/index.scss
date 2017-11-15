@@ -1,0 +1,16 @@
+.results {
+  margin: 0;
+  padding: 10px;
+  background-color: #F2F1F4;
+  
+  .box {
+    background-color: white;
+    box-shadow: 0 0 1px 1px rgba(0, 0, 0, 0.1);
+    list-style: none;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+  }
+}
+

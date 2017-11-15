@@ -1,0 +1,19 @@
+.controls {
+  padding: 10px;
+  button {
+    padding: 0;
+    margin: 10px 40px 10px 0;
+    background-color: white;
+    color: #00b2d6;
+    border: none;
+    
+    &.price {
+      float: right;
+      margin-right: 10px;
+      span {
+        display: inline-block;
+        vertical-align: 12px;
+      }
+    }
+  }
+}

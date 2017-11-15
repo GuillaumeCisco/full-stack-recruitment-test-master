@@ -1,0 +1,20 @@
+@import "~bpk-mixins";
+
+.priceBox {
+  margin-top: 10px;
+  .price {
+    font-weight: bold;
+    font-size: 24px;
+    display: block;
+  }
+
+  .name {
+    color: #C5C2CD;
+  }
+
+  button {
+    float: right;
+    @include bpk-button();
+  }
+}
+
