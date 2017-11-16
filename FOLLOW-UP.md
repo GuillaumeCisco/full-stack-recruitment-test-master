@@ -17,7 +17,7 @@ query-string, stringify mocked user input
 ### Q) If you had more time, what further improvements or new features would you add?
 Better svg and css.
 Put defaultProps, propTypes.
-Put my own webpack bootstrap architecture with SSR, PRPL pattern, better HMR, Service Worker Precache, redux. But I thought it would be a bit overkill for this simple exercise.
+Put my own webpack bootstrap architecture with SSR, PRPL pattern, better HMR, Service Worker Precache, redux, redux-sagas, code splitting. But I think it would be a bit overkill for this simple exercise.
 I would have also liked using emotion, and redux-first-router.
 
 ### Q) Which parts are you most proud of? And why?

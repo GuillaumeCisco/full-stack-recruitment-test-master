@@ -13,8 +13,10 @@
   }
 
   button {
-    float: right;
+    float: right;     
     @include bpk-button();
+    padding: 10px 30px;
+    border-radius: 25px;
   }
 }
 
